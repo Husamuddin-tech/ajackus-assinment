@@ -75,3 +75,26 @@ If I would have time I'll improve these things:
 1. More robust error handeling.
 2. Add Animations.
 3. Make UI Design More Professional.
+
+## Screenshots
+
+
+
+
+<img width="1469" height="831" alt="Screenshot 2025-07-12 at 5 28 41 PM" src="https://github.com/user-attachments/assets/e312998f-8acc-4068-9eb5-ed08b79f32a1" />
+
+
+
+
+<img width="1454" height="756" alt="Screenshot 2025-07-12 at 5 28 53 PM" src="https://github.com/user-attachments/assets/8f898696-bc6d-4d54-9480-9ec0806ea43e" />
+
+
+
+
+
+
+
+
+
+
+
