@@ -60,3 +60,18 @@ employee-directory/
 2. Navigate to your project root:
    ```bash
    ./mvnw spring-boot:run
+
+
+
+
+
+## Reflection:
+Challenges Faced:
+Error Messaging and Debugging
+When FreeMarker templates failed (due to a missing variable or incorrect include), the errors were often vague or thrown at runtime. Debugging required scanning logs and verifying that all model.addAttribute(...) in the Spring controller matched what the template expected.
+
+## Improvements:
+If I would have time I'll improve these things:
+1. More robust error handeling.
+2. Add Animations.
+3. Make UI Design More Professional.
