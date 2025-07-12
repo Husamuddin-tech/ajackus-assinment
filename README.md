@@ -30,7 +30,9 @@ This project is a **responsive employee directory web interface**, developed as 
 ## 📁 Project Structure
 
 employee-directory/
+
 ├── src/
+
 │ ├── main/
 │ │ ├── java/com/example/yourproject/
 │ │ │ └── EmployeeDirectoryApplication.java
