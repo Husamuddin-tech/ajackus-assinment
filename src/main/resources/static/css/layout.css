@@ -1,0 +1,21 @@
+.app-header {
+  background-color: #0a58ca;
+  color: #fff;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+main {
+  padding: 2rem;
+  background-color: #f5f7fa;
+}
+
+footer {
+  background-color: #121212;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}

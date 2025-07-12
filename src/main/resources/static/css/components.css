@@ -1,0 +1,152 @@
+.search-bar input {
+  padding: 0.6rem;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.controls {
+  margin: 20px 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+}
+
+.controls label,
+.controls select,
+.controls button {
+  margin-right: 10px;
+}
+
+.employee-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  margin-bottom: 1rem;
+  transition: transform 0.2s ease;
+}
+
+.employee-card:hover {
+  transform: translateY(-4px);
+}
+
+.employee-card h3 {
+  color: #0a58ca;
+  margin-bottom: 0.5rem;
+}
+
+.employee-card p {
+  margin: 0.3rem 0;
+}
+
+.employee-card button {
+  margin-top: 0.5rem;
+  margin-right: 8px;
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #0a58ca;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.employee-card button:hover {
+  background-color: #084298;
+}
+
+.employee-card button.delete-btn {
+  background-color: #dc3545;
+}
+
+.employee-card button.delete-btn:hover {
+  background-color: #c82333;
+}
+
+#employee-form-section {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  margin-top: 2rem;
+}
+
+#employeeForm input {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #bbb;
+  border-radius: 6px;
+}
+
+.form-buttons {
+  margin-top: 1rem;
+}
+
+.form-buttons button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #0a58ca;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.form-buttons button.cancel-btn {
+  background-color: #6c757d;
+}
+
+
+/* Base Button */
+button,
+.btn {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+/* Primary */
+.btn-primary {
+  background-color: #0a58ca;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #084298;
+}
+
+/* Secondary */
+.btn-secondary {
+  background-color: #6c757d;
+  color: white;
+}
+
+.btn-secondary:hover {
+  background-color: #5a6268;
+}
+
+/* Danger */
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+/* Responsive Full-width on Mobile */
+@media (max-width: 480px) {
+  .btn {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
