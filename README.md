@@ -32,7 +32,6 @@ This project is a **responsive employee directory web interface**, developed as 
 employee-directory/
 
 ├── src/
-
 │ ├── main/
 │ │ ├── java/com/example/yourproject/
 │ │ │ └── EmployeeDirectoryApplication.java
