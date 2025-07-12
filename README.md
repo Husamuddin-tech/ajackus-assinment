@@ -85,8 +85,24 @@ If I would have time I'll improve these things:
 
 
 
+Main page
 
 <img width="1454" height="756" alt="Screenshot 2025-07-12 at 5 28 53 PM" src="https://github.com/user-attachments/assets/8f898696-bc6d-4d54-9480-9ec0806ea43e" />
+
+Edit Page
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
